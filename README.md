@@ -15,6 +15,6 @@
 # you tube support also taken.
 
 
-# contributer : Avichal Shrivastav , Ayush Kumar Batwara
+# Contributer : Avichal Shrivastav , Ayush Kumar Batwara
 
 # Mentor : Gagandeep Thakur(Technical Director at Cognitive Creators
