@@ -1,5 +1,5 @@
 # GoCoronaGo
-Simple website which showing corona cases in India and across the world.
+#Simple website which showing corona cases in India and across the world.
 
 # Real time Country-wise updates on the number of Corona Cases Worldwide and in particular, detailed data of every state in india is also available.
 
@@ -15,4 +15,4 @@ Simple website which showing corona cases in India and across the world.
 
 # contributer : Avichal Shrivastav , Ayush Kumar Batwara
 
-#Mentor : Gagandeep Thakur(Technical Director at Cognitive Creators
+# Mentor : Gagandeep Thakur(Technical Director at Cognitive Creators
