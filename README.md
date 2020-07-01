@@ -13,3 +13,6 @@ Simple website which showing corona cases in India and across the world.
 # for data fetching am using Free api integration  from covid19api.com 
 
 
+# contributer : Avichal Shrivastav , Ayush Kumar Batwara
+
+#Mentor : Gagandeep Thakur(Technical Director at Cognitive Creators
